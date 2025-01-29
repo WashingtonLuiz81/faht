@@ -9,6 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        primary: "#fdbd00",
+        secondary: "#ffc722",
+        submenu: '#363533',
       },
     },
   },
